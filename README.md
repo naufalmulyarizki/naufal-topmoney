@@ -13,7 +13,7 @@ Top Money Information Player FiveM (QBCORE)
 - refresh dan start script
 
 ## Preview Script
-### Preview Dikill Orang Lain
+### Preview Top Money
 ![previewtopmoney](https://r2.fivemanage.com/WX5Hv6yMgODTgG2WF6rml/previewtopmoney.png)
 
 # Dependencies
